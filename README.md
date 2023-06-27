@@ -4,14 +4,19 @@ A deep delve in understanding Inferential Statistics for Data Science practice. 
 **OBJECTIVES**
 1. **Introduction**
 2. **Distributions**
-     - Discrete             -Binomial
-     - Bernoulli            - Poisson
-     - Continuous           - Normal
+     - Discrete
+     - Binomial
+     - Bernoulli
+     - Poisson
+     - Continuous
+     - Normal
      - Confidentce Intervals
      - Skewness
      - Kurtosis
-     - Percentiles           - Z-scores
-     - Density curves        - Random Variables
+     - Percentiles
+     - Z-scores
+     - Density curves
+     - Random Variables
 3. **Confidence Intervals**
      - Introduction
      - Sample
